@@ -1,15 +1,15 @@
 [submodule "ML_00"]
 	path = ML_00
-	url = ./ML_00
+	url = https://github.com/AdrienCastelbou/ML_00.git
 [submodule "ML_01"]
 	path = ML_01
-	url = ./ML_00
+	url = https://github.com/AdrienCastelbou/ML_01.git
 [submodule "ML_02"]
 	path = ML_02
-	url = ./ML_02
+	url = https://github.com/AdrienCastelbou/ML_02.git
 [submodule "ML_03"]
 	path = ML_03
-	url = ./ML_03
+	url = https://github.com/AdrienCastelbou/ML_03.git
 [submodule "ML_04"]
 	path = ML_04
-	url = ./ML_04
+	url = https://github.com/AdrienCastelbou/ML_04.git
